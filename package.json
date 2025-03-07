@@ -1,7 +1,7 @@
 {
     "name": "node-red-contrib-nodes7-dynamic",
-    "version": "2.1.1",
-    "description": "A custom Node-RED node for Siemens PLC using nodes7, allowing you to chnage the PLC configuration and variables dynamically.",
+    "version": "2.1.2",
+    "description": "A custom Node-RED node for Siemens PLC using nodes7, allowing you to change the PLC configuration and variables dynamically.",
     "main": "nodes7_dynamic.js",
     "dependencies": {
         "nodes7": "^0.3.18"
@@ -18,6 +18,10 @@
         "plc",
         "dynamic"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MystiK7/node-red-contrib-nodes7-dynamic"
+    },
     "author": "mystiik7",
     "license": "MIT"
 }
